@@ -81,7 +81,34 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="aurelia.protractor.js" />
+    <Content Include="dist\app.html" />
+    <Content Include="dist\app.js" />
+    <Content Include="dist\blur-image.js" />
+    <Content Include="dist\child-router.html" />
+    <Content Include="dist\child-router.js" />
+    <Content Include="dist\main.js" />
+    <Content Include="dist\nav-bar.html" />
+    <Content Include="dist\users.html" />
+    <Content Include="dist\users.js" />
+    <Content Include="dist\welcome.html" />
+    <Content Include="dist\welcome.js" />
+    <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="index.html" />
+    <Content Include="index.js" />
+    <Content Include="src\app.html" />
+    <Content Include="src\app.js" />
+    <Content Include="src\blur-image.js" />
+    <Content Include="src\child-router.html" />
+    <Content Include="src\child-router.js" />
+    <Content Include="src\main.js" />
+    <Content Include="src\nav-bar.html" />
+    <Content Include="src\users.html" />
+    <Content Include="src\users.js" />
+    <Content Include="src\welcome.html" />
+    <Content Include="src\welcome.js" />
+    <Content Include="styles\styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
